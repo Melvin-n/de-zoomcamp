@@ -259,3 +259,6 @@ terraform.rc
 
 # ALL JSON
 *.json
+
+# docker compose with keys
+module_2/docker-compose.yml
