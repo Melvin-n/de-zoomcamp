@@ -266,3 +266,5 @@ module_2/docker-compose.yml
 # module 4 data
 module_4/taxi_rides_ny/taxi_rides_ny.duckdb
 module_4/taxi_rides_ny/data
+.bruin.yml
+logs/runs
